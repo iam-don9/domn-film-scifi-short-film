@@ -1,42 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">domn-film-scifi-short-film 工作流</title>
-  <desc id="desc">科幻短片剧本写作执行流程。阶段：logline → 点子卡 → 拍子表 → 剧本 → 成片。</desc>
-  <rect width="1200" height="320" rx="24" fill="#0C0F13"/>
-  <g id="title-block" transform="translate(56 40)">
-    <text x="0" y="14" fill="#7A8694" font-size="15" letter-spacing="2" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">WORKFLOW · 1–5</text>
-    <text x="0" y="46" fill="#E8ECF1" font-size="23" font-weight="600" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">科幻短片剧本写作执行流程</text>
-  </g>
-  <g id="project-proof">
-    <line x1="120.0" y1="180" x2="1080.0" y2="180" stroke="#8C3876" stroke-width="3"/>
-    <path d="M233.0 174 L247.0 180 L233.0 186 Z" fill="#8C3876"/>
-    <path d="M473.0 174 L487.0 180 L473.0 186 Z" fill="#8C3876"/>
-    <path d="M713.0 174 L727.0 180 L713.0 186 Z" fill="#8C3876"/>
-    <path d="M953.0 174 L967.0 180 L953.0 186 Z" fill="#8C3876"/>
-    <g id="stage-1" transform="translate(120 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#8C3876" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">1</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">logline</text>
-    </g>
-    <g id="stage-2" transform="translate(360 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#8C3876" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">2</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">点子卡</text>
-    </g>
-    <g id="stage-3" transform="translate(600 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#8C3876" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">3</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">拍子表</text>
-    </g>
-    <g id="stage-4" transform="translate(840 180)">
-      <circle r="30" fill="#0C0F13" stroke="#2A3138" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#8C3876" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">4</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">剧本</text>
-    </g>
-    <g id="stage-5" transform="translate(1080 180)">
-      <circle r="30" fill="#8C3876" stroke="#8C3876" stroke-width="1.5"/>
-      <text x="0" y="8" fill="#0C0F13" font-size="24" font-weight="800" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">5</text>
-      <text x="0" y="238" fill="#E8ECF1" font-size="21" font-weight="600" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">成片</text>
-    </g>
-  </g>
-  <g id="metadata"><text x="600" y="304" fill="#7A8694" font-size="18" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">点子双向测试，先立设定再写拍子</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="100%" role="img" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif">
+<title>domn-film-scifi-short-film 工作流：锁约束→一句话公式→发生器→双向测试→写末10秒→填拍</title>
+<desc>单屏反光三层变义；先写最后 10 秒再倒推填拍，反转是画面能说清的。</desc>
+<rect width="0" height="0" fill="#0C0F13"/>
+<rect x="360" y="40" width="480" height="250" rx="12" fill="#0A0D11" stroke="#21262D" stroke-width="2"/><rect x="380" y="60" width="440" height="170" rx="6" fill="#05070A" stroke="none" stroke-width="2"/><rect x="390" y="70" width="420" height="40" rx="4" fill="#0E141B" stroke="none" stroke-width="2"/><text x="405" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" fill="#7E8794" font-weight="700" text-anchor="start">FACE</text><line x1="560" y1="90" x2="800" y2="90" stroke="#21262D" stroke-width="1"/><rect x="390" y="120" width="420" height="40" rx="4" fill="#0E141B" stroke="none" stroke-width="2"/><text x="405" y="146" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" fill="#7E8794" font-weight="700" text-anchor="start">SILH</text><line x1="560" y1="140" x2="800" y2="140" stroke="#21262D" stroke-width="1"/><rect x="390" y="170" width="420" height="40" rx="4" fill="#15101A" stroke="none" stroke-width="2"/><text x="405" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" fill="#8C3876" font-weight="700" text-anchor="start">LOG</text><line x1="560" y1="190" x2="800" y2="190" stroke="#21262D" stroke-width="1"/><rect x="360" y="250" width="480" height="40" rx="12" fill="#0C0F13" stroke="#8C3876" stroke-width="2"/><text x="600" y="275" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="14" fill="#8C3876" font-weight="700" text-anchor="middle">最后 10 秒 · 切黑</text><text x="60" y="40" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" fill="#8C3876" font-weight="700" text-anchor="start">单屏反光 · 三层变义</text><text x="60" y="315" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="13" fill="#7E8794" font-weight="400" text-anchor="start">常态(脸) → 异常(多一人) → 变义(那行日志)</text>
 </svg>
